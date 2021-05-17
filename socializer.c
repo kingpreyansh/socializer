@@ -1,33 +1,3 @@
-/**
- * CSC A48 - Intro to Computer Science II, Summer 2020
- * 
- * Assignment 3 - Graffit
- * 
- * Graphs &
- * Recursion
- * Assignment
- * For
- * Freshmen
- * In
- * Toronto
- *
- * (I am so proud of that initialism.)
- * 
- * This is the program file where you will implement your solution for
- * assignment 3. Please make sure you read through this file carefully
- * and that you understand what is provided and what you need to complete.
- * 
- * You will also need to have read the handout carefully. 
- * 
- * Parts where you have to implement functionality are clearly labeled TODO
- * 
- * Be sure to test your work thoroughly, our testing will be extensive
- * and will check that your solution is *correct*, not only that it
- * provides functionality.
- * 
- * (c) 2020 William Song, Mustafa Quraish
- **/
-
 #include <string.h>
 #include <stdio.h>
 #include <stdbool.h>
