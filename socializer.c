@@ -26,9 +26,9 @@ typedef struct brand_node_struct {
 } BrandNode;
 
 /** Note: We are reusing the FriendNode here as a Linked List for allUsers.
-  * This is usually bad coding practice but it will allow us to reuse the
-  * helper functions.
-  **/
+* This is usually bad coding practice but it will allow us to reuse the
+* helper functions.
+**/
 FriendNode* allUsers; 
 
 int brand_adjacency_matrix[MAT_SIZE][MAT_SIZE];
